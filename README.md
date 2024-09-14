@@ -18,4 +18,9 @@ Top assists: Bruno Fernandes with 13 assists
 
 Highest Goals & Assist combined: Marcus Rashford with 39 G/A
 
-Highest expected Goals:
+Highest expected Goals: Rashford with 20.60 xG
+
+Highest expected Assist: Bruno Fernandes with 21.70 xA 
+
+Average Squad age: 26.31
+
