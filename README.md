@@ -33,7 +33,9 @@ Best progressive carrier: Antony with 123 carries
 Biggest underperformer in terms of xG: 
 
 Cristiano Ronaldo: -3.60
+
 Christian Eriksen: -3.30
+
 Wout Weghorst: -1.70
 
 NOTE: 
