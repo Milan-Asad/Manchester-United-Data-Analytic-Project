@@ -13,6 +13,9 @@ This report analyses players from the Manchester United 2022/23 season. In this 
 ## ANALYSIS:
 
 Top Scorer: Marcus Rashford with 30 goals 
+
 Top assists: Bruno Fernandes with 13 assists
+
 Highest Goals & Assist combined: Marcus Rashford with 39 G/A
+
 Highest expected Goals:
