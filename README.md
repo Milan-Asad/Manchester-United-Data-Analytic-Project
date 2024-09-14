@@ -24,3 +24,6 @@ Highest expected Assist: Bruno Fernandes with 21.70 xA
 
 Average Squad age: 26.31
 
+Best progressive passer: Bruno Fernandes with 327 passes 
+
+Best progressive carrier: Antony with 123 carries
