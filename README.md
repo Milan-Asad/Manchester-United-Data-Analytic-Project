@@ -37,6 +37,11 @@ Christian Eriksen: -3.30
 Wout Weghorst: -1.70
 
 NOTE: 
+
 Ronaldo's contract was terminated during the winter
+
 Eriksen is a deep midfielder
+
 Weghorst is a loan striker who joined in January
+
+Therefore the worst xG with context is Weghorst, as he is a striker who's sole job is scoring goals
