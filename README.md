@@ -28,15 +28,7 @@ Best progressive passer: Bruno Fernandes with 327 passes
 
 Best progressive carrier: Antony with 123 carries
 
-## MISC:
 
-Biggest underperformer in terms of xG: 
-
-Cristiano Ronaldo: -3.60
-
-Christian Eriksen: -3.30
-
-Wout Weghorst: -1.70
 
 NOTE: 
 
