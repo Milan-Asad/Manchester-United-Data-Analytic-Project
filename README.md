@@ -4,7 +4,7 @@ This report analyses players from the Manchester United 2022/23 season. In this 
 
 - Top score, 
 - Top assists
-- Overall number of goals & assists (team sum)
+- Overall number of goals & assists (team overall)
 - Expected Goals & Expected assists (xG & xA)
 - Average squad age
 - Matches & minutes played
