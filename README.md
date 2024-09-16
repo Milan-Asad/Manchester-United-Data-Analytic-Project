@@ -31,6 +31,7 @@ Best progressive carrier: Antony with 123 carries
 ## CHARTS WITH ANALYSIS:
 
 ![image](https://github.com/user-attachments/assets/d26e9b0f-6f02-4a4d-a427-07d296b9f7e3)
+Dashboard primarily showcasing top scorers and assists using bar & line charts. Total team goal, assist and top 5 performers are also displayed.
 ![image](https://github.com/user-attachments/assets/5c913b2f-541d-44c9-80c5-c1e9dbfd05e3)
 ![image](https://github.com/user-attachments/assets/623f9f3f-89d9-4622-bfaf-78827074a7b8)
 
