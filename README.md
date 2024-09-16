@@ -28,10 +28,3 @@ Best progressive passer: Bruno Fernandes with 327 passes
 
 Best progressive carrier: Antony with 123 carries
 
-
-
-NOTE: 
-
-Ronaldo's contract was terminated during the winter. Eriksen is a deep midfielder. Weghorst is a loan striker who joined in January
-
-Therefore the worst xG with context is Weghorst, as he is a striker who's sole job is scoring goals
