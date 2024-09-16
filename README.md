@@ -37,4 +37,7 @@ Dashboard primarily showcasing top scorers and assists using bar & line charts. 
 Dashboard showcasing xG difference and which players underperformed/overperformed. I used colour to give a better visual understanding. Green means overperformed and Red means underperformed.
 
 ![image](https://github.com/user-attachments/assets/623f9f3f-89d9-4622-bfaf-78827074a7b8)
+Dashboard showcasing the best carriers and progressive passers.
 
+![image](https://github.com/user-attachments/assets/db0d6dac-c399-4b07-a0e8-6487196dbfdc)
+Glossary to explain technical terms.
