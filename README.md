@@ -10,7 +10,7 @@ This report analyses players from the Manchester United 2022/23 season. In this 
 - Matches & minutes played
 - Total progressive passes & carries
 
-## ANALYSIS:
+## BRIEF ANALYSIS:
 
 Top Scorer: Marcus Rashford with 30 goals 
 
@@ -27,4 +27,9 @@ Average Squad age: 26.31
 Best progressive passer: Bruno Fernandes with 327 passes 
 
 Best progressive carrier: Antony with 123 carries
+
+## CHARTS WITH ANALYSIS:
+![image](https://github.com/user-attachments/assets/965c9f07-3f58-4521-b933-5c88a986ac62)
+![image](https://github.com/user-attachments/assets/81fb62c3-0311-483d-bb23-89e54d2251be)
+![image](https://github.com/user-attachments/assets/31c9e06f-9146-47e0-a078-568988814b8d)
 
