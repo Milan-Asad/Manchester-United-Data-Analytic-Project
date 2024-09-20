@@ -41,3 +41,6 @@ Dashboard showcasing the best carriers and progressive passers.
 
 ![image](https://github.com/user-attachments/assets/db0d6dac-c399-4b07-a0e8-6487196dbfdc)
 Glossary to explain technical terms.
+
+Additionally, I used Python (Pandas, Matplotlib, Seaborn) to create a heatmap visualizing player minutes played throughout the season.
+![image](https://github.com/user-attachments/assets/71418746-cdd2-4cc2-9a2d-9e4e81d0cf7b)
