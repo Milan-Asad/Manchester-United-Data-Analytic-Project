@@ -30,8 +30,8 @@ Best progressive carrier: Antony with 123 carries
 
 ## CHARTS WITH ANALYSIS:
 
-![image](https://github.com/user-attachments/assets/d26e9b0f-6f02-4a4d-a427-07d296b9f7e3)
-Dashboard primarily showcasing top scorers and assists using bar & line charts. Total team goals, assists and top 5 performers are also displayed.
+![image](https://github.com/user-attachments/assets/2318a6e9-35b0-4531-8991-86dfba5e9cc1)
+Dashboard primarily showcasing top scorers and assists using bar charts. Total team goals, assists and top 5 performers are also displayed.
 
 ![image](https://github.com/user-attachments/assets/47888865-0d03-4a26-94df-74f78e3747a0)
 Dashboard showcasing xG difference and which players underperformed/overperformed. I used colour to give a better visual understanding. Green means overperformed and Red means underperformed.
