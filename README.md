@@ -30,6 +30,9 @@ Best progressive carrier: Antony with 123 carries
 
 ## CHARTS WITH ANALYSIS:
 
+## EXAMPLE OF A PLAYER SELECTED:
+![image](https://github.com/user-attachments/assets/ee6e501b-5435-4c17-9a92-e25fc051bd0f)
+
 ![image](https://github.com/user-attachments/assets/2318a6e9-35b0-4531-8991-86dfba5e9cc1)
 Dashboard primarily showcasing top scorers and assists using bar charts. Total team goals, assists and top 5 performers are also displayed (which are shown when you click on a player).
 
