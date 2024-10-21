@@ -33,11 +33,11 @@ Best progressive carrier: Antony with 123 carries
 ![image](https://github.com/user-attachments/assets/2318a6e9-35b0-4531-8991-86dfba5e9cc1)
 Dashboard primarily showcasing top scorers and assists using bar charts. Total team goals, assists and top 5 performers are also displayed (which are shown when you click on a player).
 
-![image](https://github.com/user-attachments/assets/47888865-0d03-4a26-94df-74f78e3747a0)
+![image](https://github.com/user-attachments/assets/1f731b96-56f8-4b70-9aea-08e6f0d8de75)
 Dashboard showcasing xG difference and which players underperformed/overperformed. I used colour to give a better visual understanding. Green means overperformed and Red means underperformed.
 
-![image](https://github.com/user-attachments/assets/623f9f3f-89d9-4622-bfaf-78827074a7b8)
-Dashboard showcasing the best carriers and progressive passers.
+![image](https://github.com/user-attachments/assets/9bf6f946-70e8-4a91-aba9-74062009eea6)
+Dashboard 1 showcasing the best carriers and progressive passers, with dashboard 2 showcasing the players with the highest expected assists and progressive passes. We learn from this chart that Bruno Fernandes is instrumental when it comes to creative output. Without him, Manchester United would be in serious trouble (creatively).
 
 ![image](https://github.com/user-attachments/assets/db0d6dac-c399-4b07-a0e8-6487196dbfdc)
 Glossary to explain technical terms.
