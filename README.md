@@ -2,7 +2,7 @@
 
 This report analyses players from the Manchester United 2022/23 season. In this Power BI report, I used data to measure the following:
 
-- Top score, 
+- Top scorer  
 - Top assists
 - Overall number of goals & assists (team overall)
 - Expected Goals & Expected assists (xG & xA)
@@ -40,7 +40,7 @@ Dashboard primarily showcasing top scorers and assists using bar charts. Total t
 Dashboard showcasing xG difference and which players underperformed/overperformed. I used colour to give a better visual understanding. Green means overperformed and Red means underperformed.
 
 ![image](https://github.com/user-attachments/assets/9bf6f946-70e8-4a91-aba9-74062009eea6)
-Dashboard 1 showcasing the best carriers and progressive passers, with dashboard 2 showcasing the players with the highest expected assists and progressive passes. We learn from this chart that Bruno Fernandes is instrumental when it comes to creative output. Without him, Manchester United would be in serious trouble (creatively).
+Dashboard 1 showcases the best carriers and progressive passers, with dashboard 2 showcasing the players with the highest expected assists and progressive passes. We learn from this chart that Bruno Fernandes is instrumental when it comes to creative output. Without him, Manchester United would be in serious trouble (creatively).
 
 ![image](https://github.com/user-attachments/assets/db0d6dac-c399-4b07-a0e8-6487196dbfdc)
 Glossary to explain technical terms.
