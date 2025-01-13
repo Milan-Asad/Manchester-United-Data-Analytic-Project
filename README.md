@@ -31,7 +31,7 @@ Best progressive carrier: Antony with 123 carries
 ## MISSION AND OBJECTIVE:
 My goal is to transform the data from this dataset:
 ![image](https://github.com/user-attachments/assets/ad5c3e98-5a14-4a03-9e78-5ad84261a8cd)
-And transform it into actionable insights.
+And transform it into actionable insights. (Please note this is not the full dataset).
 
 ## CHARTS WITH ANALYSIS:
 
