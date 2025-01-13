@@ -61,3 +61,5 @@ Glossary to explain technical terms.
 Additionally, I used Python (Pandas, Matplotlib, Seaborn) to create a heatmap visualizing player minutes played throughout the season.
 
 ![image](https://github.com/user-attachments/assets/71418746-cdd2-4cc2-9a2d-9e4e81d0cf7b)
+
+This insight tells us who our most important players were during the season. Furthermore, it can allow us to see which players were often injured (for example if a big name such as Rashford had low minutes, it could mean he struggled with injuries)
