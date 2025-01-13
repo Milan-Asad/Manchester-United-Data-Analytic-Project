@@ -28,6 +28,11 @@ Best progressive passer: Bruno Fernandes with 327 passes
 
 Best progressive carrier: Antony with 123 carries
 
+## MISSION AND OBJECTIVE:
+My goal is to transform the data from this dataset:
+![image](https://github.com/user-attachments/assets/ad5c3e98-5a14-4a03-9e78-5ad84261a8cd)
+And transform it into actionable insights.
+
 ## CHARTS WITH ANALYSIS:
 
 ## EXAMPLE OF A PLAYER SELECTED:
