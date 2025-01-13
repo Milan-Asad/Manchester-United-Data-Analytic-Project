@@ -33,6 +33,14 @@ My goal is to transform the data from this dataset:
 ![image](https://github.com/user-attachments/assets/ad5c3e98-5a14-4a03-9e78-5ad84261a8cd)
 And transform it into actionable insights. (Please note this is not the full dataset).
 
+## STEPS I'LL BE TAKING:
+Here are the steps I have taken throughout this project:
+
+- Excel: For quickly exploring and getting an overview of the dataset.
+- SQL: Utilized for analysing, cleaning, and formatting the data, ensuring it is prepared for further analysis. A clean dataset is essential for accurate insights.
+- Python: Using Python and its libraries to further analyse data, creating visual charts and automating cleaning processes (when necessary)
+- Power BI: Finalising my analysis to provide insights on my findings at a level for non-technical members to understand
+
 ## CHARTS WITH ANALYSIS:
 
 ## EXAMPLE OF A PLAYER SELECTED:
